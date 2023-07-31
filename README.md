@@ -1,2 +1,4 @@
 # vsoftcom
-vsoftcom is a project for making something new in technology era.
+#Editor Vinayak Mishra 
+#Copyright 
+vsoftcom is a name for making something new in technology era.
