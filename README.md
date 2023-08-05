@@ -1,4 +1,7 @@
 # vsoftcom
 #Editor Vinayak Mishra 
-#Copyright 
-vsoftcom is a name for making something new in technology era.
+#Copyright All Right Reserved 
+vsoftcom a project 
+First i have create repository and then 
+created a branch name #webapp 
+and then i have created a folder under webapp branch
